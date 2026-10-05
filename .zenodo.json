@@ -1,0 +1,13 @@
+{
+  "title": "anomalous-wmt-jpo: Code for \"Transformation of climatologically anomalous water masses\"",
+  "upload_type": "software",
+  "description": "Code to compute anomalous water mass budgets for the analytical model and the ECCOv4r4 ocean state estimate, and to reproduce the figures of Liu et al. (submitted to Journal of Physical Oceanography).",
+  "creators": [
+    {"name": "Liu, Ran", "affiliation": "University of California, Irvine"},
+    {"name": "Forget, Gaël", "affiliation": "Massachusetts Institute of Technology"},
+    {"name": "Zhao, Zijie", "affiliation": "University of California, Irvine"},
+    {"name": "Drake, Henri F.", "affiliation": "University of California, Irvine"}
+  ],
+  "license": "mit",
+  "keywords": ["water mass transformation", "temperature anomaly", "ECCO", "El Niño", "marine heatwaves"]
+}
